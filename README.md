@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-<img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="Coder Gif"/>
-
+<img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="Coder Gif" style="display: block; padding: 0 calc(50% - 150px);" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsinghs15&label=Profile%20views&color=0e75b6&style=flat" alt="sahilsinghs15" /> </p>
 
